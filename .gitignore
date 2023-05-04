@@ -3,3 +3,8 @@ cypress/videos
 cypress/screenshots
 results
 results/*.xml
+
+yarn-error.log
+
+allure-report
+allure-results
